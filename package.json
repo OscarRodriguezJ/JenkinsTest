@@ -13,5 +13,10 @@
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "install": "^0.6.0",
+    "mocha-junit-reporter": "^1.9.1",
+    "npm": "^3.8.1"
   }
 }
